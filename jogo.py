@@ -16,7 +16,7 @@ acertou = chute == numero_secreto
 maior = chute > numero_secreto
 menor = Chute < numero_secreto
 
-if (acertou)
+if (acertou):
     print ("Parabéns Você acertou!")
 else:
     if (maior):
